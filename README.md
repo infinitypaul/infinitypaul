@@ -1,8 +1,6 @@
 ### Greetings, Noble One! 👑 Shall we? 🚀
 
-
-
-
+From building scalable systems to simplifying complex problems; I love to [spin codes into solution](https://github.com/infinitypaul), [words into impact](infinitypaul.medium.com), [speak to inspire developers](http://tmcr.2.vu/1) [build communities](pinkary.com/@infinitypaul) and code until brilliance or beautiful chaos emerges. 💻🔥
 <!--
 **infinitypaul/infinitypaul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
