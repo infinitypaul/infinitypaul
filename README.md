@@ -2,7 +2,7 @@
 
 From building scalable systems to simplifying complex problems; I love to [spin codes into solution](https://github.com/infinitypaul), [words into impact](infinitypaul.medium.com), [speak to inspire developers](https://www.notion.so/1014d74d54484699851b6c4b7ae70e16?v=c9db2dbc9e174e2d94e9a23d906514f9) [build communities](pinkary.com/@infinitypaul) and code until brilliance or beautiful chaos emerges. 💻🔥
 
-### Open Source
+### MY Open Sauced
 
 -  [Laravel Password History Validation](https://github.com/infinitypaul/laravel-password-history-validation)
 -  [Laravel Database Filter](https://github.com/infinitypaul/laravel-database-filter)
