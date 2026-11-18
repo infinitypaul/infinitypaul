@@ -1,35 +1,32 @@
-### Greetings, Noble One! 👑 Shall we? 🚀
+# Hey, I'm Paul 👋
 
-From building scalable systems to simplifying complex problems; I love to [spin codes into solution](https://github.com/infinitypaul), [words into impact](https://infinitypaul.medium.com), [speak to inspire developers](https://www.notion.so/1014d74d54484699851b6c4b7ae70e16?v=c9db2dbc9e174e2d94e9a23d906514f9) [build communities](pinkary.com/@infinitypaul) and code until brilliance or beautiful chaos emerges. 💻🔥
+I build things, break things (sometimes intentionally), and spend a questionable amount of time figuring out why they broke.
 
-### MY Open Sauced
+I've spent the last 15+ years building software, leading engineering teams, and solving problems across fintech, SaaS, e-commerce, and infrastructure. Some of that work has reached millions of users. Some of it has kept me awake at 2 a.m. Both taught me something.
 
--  [Laravel Password History Validation](https://github.com/infinitypaul/laravel-password-history-validation)
--  [Laravel Database Filter](https://github.com/infinitypaul/laravel-database-filter)
--  [Carebot](https://github.com/infinitypaul/aidsyncbot)
--  [Naira Exchange Rate](https://github.com/infinitypaul/naira-exchange-rates)
--  [Laravel Naira Exchange Rate](https://github.com/infinitypaul/laravel-naira-exchange-rates)
--  [Afrikit](https://github.com/AfrinvestOptimus/afrikit)
--  [Afrikit Web](https://github.com/AfrinvestOptimus/afrikit-web)
--  [Afrikit Shared](https://github.com/AfrinvestOptimus/afrikit-shared)
--  [PHP Validator](https://github.com/infinitypaul/php-validator)
--  [Laravel Notification Termii](https://github.com/infinitypaul/laravel-notification-channel-termii)
--  [CBS](https://github.com/infinitypaul/cbs-php)
--  [Laravel Uptime](https://github.com/infinitypaul/laravel-uptime)
--  [Vue Js Modal](https://github.com/infinitypaul/simple-vuejs-modal)
--  
+I've worn a few hats along the way: software engineer, tech lead, engineering manager, open-source maintainer, and occasionally the person everyone calls when production decides to have a personality.
 
-<!--
-**infinitypaul/infinitypaul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+These days, I'm particularly interested in distributed systems, developer tools, cloud infrastructure, and what happens when we give AI agents access to real systems. Carefully, of course.
 
-Here are some ideas to get you started:
+### A few things I've built
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **[Aroko](https://github.com/infinitypaul/aroko)** — Helping developers collaborate through coding agents without handing over their machines, repositories, or credentials.
+- **[Idempotency for Laravel](https://github.com/infinitypaul/idempotency-laravel)** — Because charging someone twice is a terrible feature.
+- **[Laravel Password History Validation](https://github.com/infinitypaul/laravel-password-history-validation)** — Helping applications remember passwords users shouldn't reuse.
+- **[Laravel Database Filter](https://github.com/infinitypaul/laravel-database-filter)** — Making database filtering less painful.
+
+There are a few more experiments scattered around my repositories. Some are useful. Some are reminders that every developer has a past.
+
+### Beyond the code
+
+I speak at technology conferences, write about things I've learned (and occasionally unlearned), and organize **[Tech Forge Summit](https://techforgesummit.com)**, bringing builders and technology leaders together.
+
+I also enjoy helping other developers grow. I've benefited from people sharing what they know, so I try to return the favour.
+
+### Elsewhere on the internet
+
+- 🌍 [Website](https://infinitypaul.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/infinitypaul/)
+- ✍️ [Writing](https://infinitypaul.com/writing/)
+
+If something here catches your interest, feel free to reach out. I enjoy a good engineering conversation, especially one that starts with “What if we tried...”
